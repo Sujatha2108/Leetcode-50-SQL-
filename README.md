@@ -106,7 +106,7 @@ Every `.sql` file includes:
 
 ## 🙋‍♀️ About Sujatha Alugoju
 
-- 🎓 B.Tech 3rd Year Student  
+- 🎓 B.Tech 4th Year Student  
 - 🌐 Exploring Data Science & Analytics  
 - 🛠️ Self-taught coder and problem solver  
 - 🧭 Learning through LeetCode, real projects, and curiosity
