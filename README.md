@@ -26,7 +26,7 @@ This project reflects:
 
 | SQL Topic          | Solved | Status        |
 |--------------------|--------|---------------|
-| Basic SELECT        | ✅ 15/15 | ✔️ Completed     |
+| Basic SELECT        | ✅  5/5  | ✔️ Completed     |
 | Joins               | ✅  9/9  | ✔️ Completed     |
 | Aggregation         | ⏳ 0/8   | 🔄 In Progress   |
 | Subqueries          | ⏳ 0/7   | 🔄 In Progress   |
@@ -40,26 +40,59 @@ This project reflects:
 ---
 
 ## ✅ Problem Tracker
+| #  | Problem Title                                          | Difficulty | Topic/Category         | Status |
+|----|--------------------------------------------------------|------------|-------------------------|--------|
+| 1  | Recyclable and Low Fat Products                        | Easy       | Basic SELECT            | ✅     |
+| 2  | Find Customer Referee                                  | Easy       | Basic SELECT            | ✅     |
+| 3  | Big Countries                                           | Easy       | Basic SELECT            | ✅     |
+| 4  | Article Views I                                         | Easy       | Basic SELECT            | ✅     |
+| 5  | Invalid Tweets                                          | Easy       | String Functions        | ✅     |
+| 6  | Replace Employee ID With The Unique Identifier         | Easy       | Basic Joins             | ✅     |
+| 7  | Product Sales Analysis I                                | Easy       | Basic Joins             | ✅     |
+| 8  | Customer Who Visited but Did Not Make Any Transactions | Easy       | Basic Joins             | ✅     |
+| 9  | Rising Temperature                                      | Easy       | Date Comparison         | ✅     |
+| 10 | Average Time of Process per Machine                     | Easy       | Aggregation             | ✅     |
+| 11 | Employee Bonus                                          | Easy       | Basic Joins             | ✅     |
+| 12 | Students and Examinations                               | Easy       | Basic Joins             | ✅     |
+| 13 | Managers with at Least 5 Direct Reports                | Medium     | Aggregation             | ✅     |
+| 14 | Confirmation Rate                                       | Medium     | Joins + Percentage      | ✅     |
+| 15 | Not Boring Movies                                       | Easy       | Filtering + Conditions  | ❌     |
+| 16 | Average Selling Price                                   | Easy       | Aggregation             | ❌     |
+| 17 | Project Employees I                                     | Easy       | Joins                   | ❌     |
+| 18 | Percentage of Users Attended a Contest                  | Easy       | Aggregation             | ❌     |
+| 19 | Queries Quality and Percentage                          | Easy       | Aggregation             | ❌     |
+| 20 | Monthly Transactions I                                  | Medium     | Group By + Aggregation  | ❌     |
+| 21 | Immediate Food Delivery II                              | Medium     | Joins + Filtering       | ❌     |
+| 22 | Game Play Analysis IV                                   | Medium     | Date Functions          | ❌     |
+| 23 | Number of Unique Subjects Taught by Each Teacher        | Easy       | Group By                | ❌     |
+| 24 | User Activity for the Past 30 Days I                    | Easy       | Date Filtering          | ❌     |
+| 25 | Product Sales Analysis III                              | Medium     | Joins + Dates           | ❌     |
+| 26 | Classes With at Least 5 Students                        | Easy       | Group By + Having       | ❌     |
+| 27 | Find Followers Count                                    | Easy       | Joins + Group By        | ❌     |
+| 28 | Biggest Single Number                                   | Easy       | Subquery                | ❌     |
+| 29 | Customers Who Bought All Products                       | Medium     | Relational Division     | ❌     |
+| 30 | Number of Employees Which Report to Each Employee       | Easy       | Self Join               | ❌     |
+| 31 | Primary Department for Each Employee                    | Easy       | Joins + Group By        | ❌     |
+| 32 | Triangle Judgement                                      | Easy       | Conditional Logic       | ❌     |
+| 33 | Consecutive Numbers                                     | Medium     | Window Functions        | ❌     |
+| 34 | Product Price at a Given Date                           | Medium     | Filtering + MAX()       | ❌     |
+| 35 | Last Person to Fit in the Bus                           | Medium     | Math + Logic            | ❌     |
+| 36 | Count Salary Categories                                 | Medium     | Case + Group By         | ❌     |
+| 37 | Employees Whose Manager Left the Company                | Easy       | Subquery + Join         | ❌     |
+| 38 | Exchange Seats                                          | Medium     | MOD + Row Swapping      | ❌     |
+| 39 | Movie Rating                                            | Medium     | Aggregation + Join      | ❌     |
+| 40 | Restaurant Growth                                       | Medium     | Joins + Date Functions  | ❌     |
+| 41 | Friend Requests II: Who Has the Most Friends            | Medium     | Group By + Count        | ❌     |
+| 42 | Investments in 2016                                     | Medium     | Filtering + Join        | ❌     |
+| 43 | Department Top Three Salaries                           | Hard       | Window Functions        | ❌     |
+| 44 | Fix Names in a Table                                    | Easy       | String Cleanup          | ❌     |
+| 45 | Patients With a Condition                               | Easy       | Filtering + LIKE        | ❌     |
+| 46 | Delete Duplicate Emails                                 | Easy       | Subquery + DELETE       | ❌     |
+| 47 | Second Highest Salary                                   | Medium     | Subquery + LIMIT        | ❌     |
+| 48 | Group Sold Products By The Date                         | Easy       | Group By + Aggregation  | ❌     |
+| 49 | List the Products Ordered in a Period                   | Easy       | Filtering + Date Range  | ❌     |
+| 50 | Find Users With Valid E-Mails                           | Easy       | Regex / LIKE            | ❌     |
 
-| #  | Problem Title                                          | Difficulty | Category             | Status |
-|----|--------------------------------------------------------|------------|----------------------|--------|
-| 1  | Recyclable and Low Fat Products                        | Easy       | SELECT               | ✅     |
-| 2  | Find Customer Referee                                  | Easy       | SELECT               | ✅     |
-| 3  | Big Countries                                          | Easy       | SELECT               | ✅     |
-| 4  | Article Views I                                       | Easy       | SELECT               | ✅     |
-| 5  | Invalid Tweets                                        | Easy       | String Functions     | ✅     |
-| 6  | Replace Employee ID With The Unique Identifier         | Easy       | Joins                | ✅     |
-| 7  | Product Sales Analysis I                               | Easy       | Joins                | ✅     |
-| 8  | Customer Who Visited but Didn’t Transact              | Easy       | Joins                | ✅     |
-| 9  | Rising Temperature                                     | Easy       | Date Comparison      | ✅     |
-| 10 | Average Time of Process per Machine                    | Easy       | Aggregation          | ✅     |
-| 11 | Employee Bonus                                         | Easy       | Joins                | ✅     |
-| 12 | Students and Examinations                              | Easy       | Joins                | ✅     |
-| 13 | Managers with at Least 5 Direct Reports                | Medium     | Aggregation          | ✅     |
-| 14 | Confirmation Rate                                      | Medium     | Joins + Percentage   | ✅     |
-| 15–50 | *(Remaining problems listed in full in the repo)* | Varies     | Multiple             | ❌     |
-
----
 
 ## 📂 Repository Structure
 
